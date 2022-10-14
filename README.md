@@ -7,6 +7,7 @@ This initiative is to provide door to door education to the students, to educate
 Front-End using: HTML, CSS AND JAVASCRIPT
 Back-End using: PHP/MYSQL
 UI Tool: Figma
+
 Main-features of the website are: 
 ✅ Responsive Header with toggle menu effect using JavaScript. 
 ✅ Responsive Home section using CSS flexbox.
@@ -33,4 +34,3 @@ STEP 2) Making Website Responsive, Attractive and suitable for any device.
 STEP 3) 
 Back-End of the Website
 •	Integration of the Database with the Website
-
