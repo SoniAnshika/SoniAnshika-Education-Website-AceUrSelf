@@ -8,7 +8,7 @@ Front-End using: HTML, CSS AND JAVASCRIPT
 Back-End using: PHP/MYSQL
 UI Tool: Figma
 
-Main-features of the website are: 
+Main-features of the website are: <br>
 ✅ Responsive Header with toggle menu effect using JavaScript. <br>
 ✅ Responsive Home section using CSS flexbox.<br>
 ✅ Responsive About section using CSS flexbox. <br>
