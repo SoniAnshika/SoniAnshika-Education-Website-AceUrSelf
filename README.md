@@ -9,13 +9,13 @@ Back-End using: PHP/MYSQL
 UI Tool: Figma
 
 Main-features of the website are: 
-✅ Responsive Header with toggle menu effect using JavaScript. 
-✅ Responsive Home section using CSS flexbox.
-✅ Responsive About section using CSS flexbox. 
-✅ Responsive Courses section with touch slider. 
-✅ Responsive Teachers section with touch slider. 
-✅ Responsive reviews section with touch slider. 
-✅ Responsive contact section using flexbox.
+✅ Responsive Header with toggle menu effect using JavaScript. <br>
+✅ Responsive Home section using CSS flexbox.<br>
+✅ Responsive About section using CSS flexbox. <br>
+✅ Responsive Courses section with touch slider. <br>
+✅ Responsive Teachers section with touch slider. <br>
+✅ Responsive reviews section with touch slider. <br>
+✅ Responsive contact section using flexbox. <br>
 
 STEP 1) Structuring and Styling the Website
 Front-End of the Website
