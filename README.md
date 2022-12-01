@@ -19,6 +19,7 @@ Main-features of the website are: <br>
 ✅ Responsive Teachers section with touch slider. <br>
 ✅ Responsive reviews section with touch slider. <br>
 ✅ Responsive contact section using flexbox. <br>
+✅ Ensuring easy navigation.
 
 STEP 1) Structuring and Styling the Website <br>
 Front-End of the Website <br>
