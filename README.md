@@ -1,7 +1,6 @@
 # SoniAnshika-Education-Website-AceUrSelf
 This is Frontend Design of an education website which promotes online learning or 
-e-learning for the students. This will help students to continue their     
-education irrespective of any situation or circumstances with all the available best resources. 
+e-learning for the students. This will help students to continue their education irrespective of any situation or circumstances with all the available best resources. 
 This initiative is to provide door to door education to the students, to educate each and every person of our country in the most flexible way.
 
 Visit Link of the Website: <br>
